@@ -30,7 +30,7 @@
     "php": ">=7.1.0",
     "doctrine/dbal": "^2.9",
     "optimistdigital/nova-locale-field": "^2.0",
-    "whitecube/nova-flexible-content": "^0.2.4",
+    "whitecube/nova-flexible-content": "*",
     "optimistdigital/nova-multiselect-field": ">=1.8.1",
     "optimistdigital/nova-translatable": ">=1.11",
     "digital-creative/conditional-container": "^1.3",
